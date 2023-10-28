@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](images/weather.png)
+![Alt text](weather.png)
 
 Weather App is a simple web application that allows users to search for the weather in different cities. The app provides real-time weather information, specifically displaying the temperature in Celsius. It's a handy tool for quickly checking the weather conditions in any location you're interested in.
 
